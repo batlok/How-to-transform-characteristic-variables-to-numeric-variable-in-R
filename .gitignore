@@ -1,3 +1,4 @@
+Scooby <- data.frame(imdb = c("7.2", "6.8", "7.5"))
 str(Scooby$imdb)
 #it is going to show the type of the serie
 #if it is chr
